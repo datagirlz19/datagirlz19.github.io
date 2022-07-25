@@ -19,10 +19,13 @@ The annual census is taken to help governents provide resources to families in n
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-<embed src="https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes/blob/9212966bf3cfa4dd94a1313e72a2bb0360663402/Project%202.pdf" width="800px" height="2100px" />
+
+<embed src="Articles_Refrenced/Project 2.pdf" width="800px" height="2100px" />
+
+
 <!--
 ![https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes/blob/9212966bf3cfa4dd94a1313e72a2bb0360663402/Project%202.pdf]
-<embed src="Project 2.pdf" width="800px" height="2100px" />
+
 <embed src="Project 2.pdf" width="800px" height="2100px" /> -->
 
 <!--
