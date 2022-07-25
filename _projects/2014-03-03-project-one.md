@@ -1,11 +1,8 @@
 ---
 layout: project
-title: Project One: Low Income Homes
+title: Project One - Low Income Homes
 description: The purpose of this project is predict whether someone has an annual income of over $50,000.
-
-
 summary: In 2020, the US census recorded the information of over 48,000 individuals and consolidated the information into the data set provided. We were tasked with creating a model to predict whether someone has an annual income of over $50,000.
-
 category: Data Analysis
 ---
 
