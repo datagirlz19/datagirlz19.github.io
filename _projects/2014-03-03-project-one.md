@@ -25,4 +25,5 @@ The annual census is taken to help governents provide resources to families in n
 <embed src="Project 2.pdf" width="800px" height="2100px" /> -->
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-[link]To see the step by step process, check out the blog article! 
+
+<!--[link]To see the step by step process, check out the blog article! -->
