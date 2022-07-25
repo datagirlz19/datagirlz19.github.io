@@ -18,17 +18,12 @@ The annual census is taken to help governents provide resources to families in n
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+![0001](https://user-images.githubusercontent.com/45902684/180712870-84395ca3-e793-4e14-a198-22634f1ca3b8.jpg)
+![0002](https://user-images.githubusercontent.com/45902684/180712873-c72dc155-8d99-4624-9394-512e0641d7cb.jpg)
+![0003](https://user-images.githubusercontent.com/45902684/180712874-dd895212-2df2-4c42-9e80-a8b8df24b767.jpg)
+![0004](https://user-images.githubusercontent.com/45902684/180712877-fb6ebba0-d55d-48cf-b6d0-1693149db82a.jpg)
+![0005](https://user-images.githubusercontent.com/45902684/180712880-8fb9402f-3aec-482d-aa7c-a30f570c8ba2.jpg)
+![0006](https://user-images.githubusercontent.com/45902684/180712883-3877df9c-a50e-438a-a1bd-e0e707c448ce.jpg)
 
 
-<embed src="Articles_Refrenced/Project 2.pdf" width="800px" height="2100px" />
 
-
-<!--
-![https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes/blob/9212966bf3cfa4dd94a1313e72a2bb0360663402/Project%202.pdf]
-
-<embed src="Project 2.pdf" width="800px" height="2100px" /> -->
-
-<!--
-![heade<!--r](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-[link]To see the step by step process, check out the blog article! -->
