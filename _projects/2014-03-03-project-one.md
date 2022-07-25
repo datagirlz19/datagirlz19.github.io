@@ -21,7 +21,7 @@ The annual census is taken to help governents provide resources to families in n
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-<embed src="https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes/blob/9212966bf3cfa4dd94a1313e72a2bb0360663402/Project%202.pdf" width="800px" height="2100px" />
+<img src="https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes/blob/9212966bf3cfa4dd94a1313e72a2bb0360663402/Project%202.pdf" width="800px" height="2100px" />
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 [link]To see the step by step process, check out the blog article! 
