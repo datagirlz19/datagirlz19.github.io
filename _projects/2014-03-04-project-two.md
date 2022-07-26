@@ -9,10 +9,10 @@ category: Explatory Data Analysis, Objective Driven Results
 
 The College of Wooster is a small liberal arts school in Ohio that mainly attracts students due to its prestigious Independent Study Program that draws in students from around the globe. Despite the college's appeal, the college struggles to obtain domestic students, as only 55% of the students that apply to the school are admitted, and only 16% of the students that are admitted to the school accept the offer.We were allowed to condut an analysis on a dataset of over 2,000 students in hopes of finding insights into the data and providing small solutions to increase the number of student acceptances.
 
-
 The purpose of this project is to determine who is more likely to apply to Wooster, and how we can increase these results.
-[More Information about the College of Wooster]()
-[To see ]()
+
+[More Information about The College of Wooster](https://wooster.edu/)
+[To view the Full Project](https://github.com/datagirlz19/College-of-Wooster-Admissions-Data)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
