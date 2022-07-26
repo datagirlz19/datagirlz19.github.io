@@ -14,7 +14,8 @@ The purpose of this project is predict whether someone has an annual income of o
 
 The annual census is taken to help governents provide resources to families in need. However there are many situations when this data will not be accutate or complete, such as when leadership changes the definition of what a low income family is or when families do not fill out the census with accurate/complete information. In cases like these, it is important to keep track of low income families so that the government can find ways to provide them with the necessary aid. This project aims to find house holds that are low income (making under $50,000 annually) so that proper support can be given based on speific predictors.
 
-[More on Low Income Families](https://www.federalregister.gov/documents/2010/08/05/2010-19099/the-low-income-definition) 
+[More on Low Income Families](https://www.federalregister.gov/documents/2010/08/05/2010-19099/the-low-income-definition) [To view the Full Project](https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes)
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
