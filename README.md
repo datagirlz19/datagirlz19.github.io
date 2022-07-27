@@ -44,14 +44,15 @@ Skills Used:
 
 
 ## Project 2 - The College of Wooster Admissions Rate
+![snowsquare](https://user-images.githubusercontent.com/45902684/181140784-b9dc704e-913d-4404-ae73-6ed0d637c1b9.jpeg)
+
 #### Description: 
 
 The purpose of this project is to determine who is more likely to apply to Wooster, and how we can increase these results.
 
 The College of Wooster is a small liberal arts school in Ohio that mainly attracts students due to its prestigious Independent Study Program that draws in students from around the globe. Despite the college's appeal, the college struggles to obtain domestic students, as only 55% of the students that apply to the school are admitted, and only 16% of the students that are admitted to the school accept the offer.We were allowed to condut an analysis on a dataset of over 2,000 students in hopes of finding insights into the data and providing small solutions to increase the number of student acceptances.
 
-##### Link to project: [https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes](https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes)
-
+##### Link to project: [https://github.com/datagirlz19/College-of-Wooster-Admissions-Data](https://github.com/datagirlz19/College-of-Wooster-Admissions-Data)
 ##### Methods Used
 * Inferential Statistics
 * Data Visualization
@@ -59,3 +60,29 @@ The College of Wooster is a small liberal arts school in Ohio that mainly attrac
 ##### Technologies
 * R 
 
+## Project 3 - Classifying Natural Diaster Tweets 
+![fredy-martinez-ou3fG2zWbcs-unsplash](https://user-images.githubusercontent.com/45902684/180914835-8f4160f3-09a0-4517-8767-c58930aca857.jpeg)
+Photo by <a href="https://unsplash.com/@fredymartinez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fredy Martinez</a> on <a href="https://unsplash.com/s/photos/gentrified-philadelphia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+#### Description: 
+Twitter can be as both a resource for finding urgent information and as a tool for communicating useless information about sales and petty gossip.
+
+Twitter can be both a resource for finding urgent information such as reporting Natural Disasters (real-time) and asking for help during times of crisis. Hashtags can be useful tools for sifting through the nonsense, but they can also be misused for sales and gossip. This project aims to use Natural Language Processing to determine which messages posted on Twitter can be classified as Natural Disasters or spam.
+ 
+The purpose of this project is to use NLP to predict whether a tweet is reporting on a natural disaster/crisis or not.
+
+The annual census is taken to help governents provide resources to families in need. However there are many situations when this data will not be accutate or complete, such as when leadership changes the definition of what a low income family is or when families do not fill out the census with accurate/complete information. In cases like these, it is important to keep track of low income families so that the government can find ways to provide them with the necessary aid. This project aims to find house holds that are low income (making under $50,000 annually) so that proper support can be given based on speific predictors.
+
+##### Link to project: [https://github.com/datagirlz19/Diaster-Tweets-Classifier](https://github.com/datagirlz19/Diaster-Tweets-Classifier)
+
+### Methods Used
+* Inferential Statistics
+* Machine Learning 
+* Natural Language Processing (NLP)
+* Random Forrest Classification 
+
+### Technologies
+* Python
+* Pandas, Seaborne, Numpy
+* Jupyter Notebooks 
+* LateX 
