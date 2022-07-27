@@ -71,8 +71,6 @@ Twitter can be both a resource for finding urgent information such as reporting 
  
 The purpose of this project is to use NLP to predict whether a tweet is reporting on a natural disaster/crisis or not.
 
-The annual census is taken to help governents provide resources to families in need. However there are many situations when this data will not be accutate or complete, such as when leadership changes the definition of what a low income family is or when families do not fill out the census with accurate/complete information. In cases like these, it is important to keep track of low income families so that the government can find ways to provide them with the necessary aid. This project aims to find house holds that are low income (making under $50,000 annually) so that proper support can be given based on speific predictors.
-
 ##### Link to project: [https://github.com/datagirlz19/Diaster-Tweets-Classifier](https://github.com/datagirlz19/Diaster-Tweets-Classifier)
 
 ### Methods Used
