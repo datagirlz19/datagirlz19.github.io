@@ -1,4 +1,4 @@
-# [Data-Science-Portfolio](datagirlz19.github.io)
+# [Data-Science-Portfolio](https://datagirlz19.github.io/)
 This portfolio is a collection of my work completed independently and as class work to show my skills and abilities in Data Science / Analytics. 
 During college, I gained experience working in team settings and creating data-driven solutions. There, I learned how to: use design visualizations for impact, create machine learning models, and teach myself skills to present actionable results to an audience. I hope you enjoy some of my insights. 
 
@@ -14,7 +14,7 @@ During college, I gained experience working in team settings and creating data-d
 <a href="https://kaggle.com/datagirlz19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="datagirlz19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swright22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swright22" height="30" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/datagirlz19" target="blank"><img align="center" src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="swright22" height="30" /></a>
-### Check out my blog: [datagirlz19.github.io](datagirlz19.github.io)
+### Check out my blog: [www.datagirlz19.github.io](https://datagirlz19.github.io/)
 
 
 
