@@ -1,27 +1,27 @@
-site: Colorie
-url: 
-author: Colorie
+site: Data Girlz
+url: datagirlz.net
+author: Sarah Wright
 author:
-  name: Colorie
-  email: 
-  url: 
+  name: Sarah Wright 
+  email: sarah.wright@datagirlz.net
+  url: datagirlz.net
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: Data Girlz
+description: Freelance Data Scientist for Hire
 logo: 
 image: 
 twitter: ronaldsvilcins  
 twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
+  username: swright
+  creator: swright
   card: summary
 social:
   name: Ronalds Vilcins
   links:
-    - https://twitter.com/#
-    - https://www.dribbble.com/#
-    - https://github.com/#
-    - https://codepen.io/#
+    - https://twitter.com/datagirlz19
+    - www.linkedin.com/in/swright22 
+    - https://github.com/datagirlz19
+    - https://public.tableau.com/app/profile/datagirlz19
   
 permalink: pretty
 
