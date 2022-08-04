@@ -85,11 +85,15 @@ Predicted the outcome of student success in STEM using regression techniques (80
 
 *Jan 2020 – Current*                 
     Acknowledged as a member of over 15,000+ women and students in the **Rewriting the Code Fellowship**
+    
 *Feb 2021 – May 2022*        
     Founder and President of **The Wooster Data Problem**
+    
 *Feb 2020 – May 2022*       
     Accepted as a member & resolved internal conflicts as the **Judge of Kappa Epsilon Zeta Sorority**
+    
 *Feb 2020 – Jan 2021*        
     Volunteered to as an assistant to teach over 20+ attendees about Physics during **Earth fest & Science Day**
+    
 *April 6, 2019, & 2020*                
     Volunteered to aid professors and engineers to teach over 50+ young girls about STEM during **Expanding your Horizons**
