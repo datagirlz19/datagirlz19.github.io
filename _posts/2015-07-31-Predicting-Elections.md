@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyzing the outcome of the 2020 Elections
+title: Analyzing the 2020 Elections
 description: The goal of this data analysis is to gather a deeper understanding of why Donald J. Trump won the 2016 elections.
 summary: Our analysis proposes that there are 3 factors that led to Donald J. Trump winning the election. These factors are Publicity, Hate Crime, & Unemployment rates (which we are calling environmental factors).
 tags: [EDA: Explatory Data Analysis]
