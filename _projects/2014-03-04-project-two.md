@@ -6,13 +6,13 @@ summary: The College of Wooster has 263,139 domestic prospects for the Collegeâ€
 category: Explatory Data Analysis, Objective Driven Results 
 ---
  
+The College of Wooster is a small liberal arts school in Ohio that attracts students due to its prestigious Independent Study Program. 
+Despite the college's appeal, 55% of students are admitted, and only 16% of the students that are admitted accept the offer. 
 
-The College of Wooster is a small liberal arts school in Ohio that mainly attracts students due to its prestigious Independent Study Program that draws in students from around the globe. Despite the college's appeal, the college struggles to obtain domestic students, as only 55% of the students that apply to the school are admitted, and only 16% of the students that are admitted to the school accept the offer.We were allowed to condut an analysis on a dataset of over 2,000 students in hopes of finding insights into the data and providing small solutions to increase the number of student acceptances.
-
-The purpose of this project is to determine who is more likely to apply to Wooster, and how we can increase these results.
+We were allowed to analyze a dataset of over 2,000 students in hopes of finding insights into the data and providing small solutions to increase the number of student acceptances.
+Our goal was to determine who is more likely to apply to Wooster, and how we can increase these results.
 
 [More Information about The College of Wooster](https://wooster.edu/)
-[To view the Full Project](https://github.com/datagirlz19/College-of-Wooster-Admissions-Data)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
@@ -26,3 +26,8 @@ Written and Created by Tyusha Sarawagi & Sarah Wright
 ![page-5](https://user-images.githubusercontent.com/45902684/180920381-f8a59c9f-4fad-47a5-a239-1f5330d841b1.jpg)
 ![page-6](https://user-images.githubusercontent.com/45902684/180920382-b445f43f-2a84-4ba5-a94b-612c5c841678.jpg)
 ![page-7](https://user-images.githubusercontent.com/45902684/180920384-3c3a940f-a361-4fd5-96c0-fe62611bc3fa.jpg)
+
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+*[To view the Full Project](https://github.com/datagirlz19/College-of-Wooster-Admissions-Data)*
