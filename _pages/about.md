@@ -56,11 +56,11 @@ Message me on LinkedIn: [www.linkedin.com/in/swright22](https://linkedin.com/in/
 #### Other Projects: 
     * Conducted Exploratory Data Analysis and Data Cleaning on ICU Admissions Rates to minimize return injuries in Tableau 
     * Predicted the outcome of student success in STEM using regression techniques (80% Accuracy)                
-
-<p>
-<a href="https://twitter.com/datagirlz19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datagirlz19" height="30" width="40" /></a> <a href="https://linkedin.com/in/swright22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/swright22" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/19185336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19185336" height="30" width="40" /></a> <a href="https://kaggle.com/datagirlz19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="datagirlz19" height="30" width="40" /></a> <a href="https://www.hackerrank.com/swright22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swright22" height="30" width="40" /></a> <a href="https://public.tableau.com/app/profile/datagirlz19" target="blank"><img align="center" src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="swright22" height="30" /></a>
-</p>
-
+**Other Links**
+[https://public.tableau.com/app/profile/datagirlz19](https://public.tableau.com/app/profile/datagirlz19)
+[https://www.hackerrank.com/swright22](https://www.hackerrank.com/swright22)
+[https://kaggle.com/datagirlz19](https://kaggle.com/datagirlz19)
+[https://github.com/datagirlz19](https://github.com/datagirlz19)
 
 ## [EXPERIENCE](https://www.linkedin.com/in/swright22)
 ### Drexel University, Philadelphia, PA
