@@ -4,7 +4,9 @@ title: Project Three - Natural Diaster Tweet Classification
 description: The purpose of this project is to use NLP to predict whether a tweet is reporting on a natural disaster/crisis or not.
 summary: Twitter can be as both a resource for finding urgent information and as a tool for communicating useless information about sales and petty gossip. 
 category: NLP, Classification, Research
----Twitter can be a powerful tool, for finding urgent information about situations around the globe. However, it can also be a tool for communicating useless information about sales and petty gossip. 
+---
+
+Twitter can be a powerful tool, for finding urgent information about situations around the globe. However, it can also be a tool for communicating useless information about sales and petty gossip. 
 
 Hashtags can be useful for shifting through the clutter! But often they are misused, such as using #Hurricane on a sale ad to increase views. This has made it difficult for individuals and organizations to identify relevant information. This has become salient, as social media had become an overwhelming database of information. 
 
