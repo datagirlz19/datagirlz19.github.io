@@ -10,11 +10,9 @@ Twitter can be a powerful tool, both as a resource for finding urgent informatio
 
 The purpose of this project is to use NLP to predict whether a tweet is reporting on a natural disaster/crisis or not.
 
-[To view the Full Project](https://github.com/datagirlz19/Diaster-Tweets-Classifier)
+[To view the Presentation](#Presentation)
 
-[To view the Presentation](https://github.com/datagirlz19/datagirlz19.github.io/edit/master/_projects/2016-04-05-project-three.md#presentation)
-
-[To view the Final Report](https://github.com/datagirlz19/datagirlz19.github.io/edit/master/_projects/2016-04-05-project-three.md#final-report)
+[To view the Final Report](#Final-Report)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 # Final Report 
@@ -47,4 +45,10 @@ The purpose of this project is to use NLP to predict whether a tweet is reportin
 ![page-13](https://user-images.githubusercontent.com/45902684/181149747-0602ed9b-3682-408e-a27e-ea2f1f5ac73a.jpg)
 ![page-14](https://user-images.githubusercontent.com/45902684/181149750-e8168382-cb74-4d20-9a60-4b6e3fef9d1b.jpg)
 
+
+
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+*[To view the Full Project](https://github.com/datagirlz19/Diaster-Tweets-Classifier)*
 
