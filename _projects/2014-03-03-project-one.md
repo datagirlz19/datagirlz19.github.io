@@ -6,18 +6,13 @@ summary: In 2020, the US census recorded the information of over 48,000 individu
 category: Data Analysis
 ---
 
-In 2020, the US census recorded the information of over 48,000 individuals and consolidated the information into the data set provided. We were tasked with creating a model to predict whether someone has an annual income of over $50,000.
+In 2020, the US census recorded the information on over 48,000 households. We were tasked with creating a model to predict whether someone has an annual income of over $50,000.
 
-To do this, we performed basic data manipulation on the variables in the dataset to analyze the provided information and gain some insight. The dataset mostly included categorical variables, so we decided to look at each unique category. We found out that there were several overlapping variables and decided to modify them to reduce the number of categories, thus reducing potential complications.
+To do this, we performed basic data manipulation, and a Random Forrest Regression on the dataset to gain some insight. 
 
-The purpose of this project is predict whether someone has an annual income of over $50,000.
-
-The annual census is taken to help governents provide resources to families in need. However there are many situations when this data will not be accutate or complete, such as when leadership changes the definition of what a low income family is or when families do not fill out the census with accurate/complete information. In cases like these, it is important to keep track of low income families so that the government can find ways to provide them with the necessary aid. This project aims to find house holds that are low income (making under $50,000 annually) so that proper support can be given based on speific predictors.
+The purpose of this project is to predict whether someone has an annual income of over $50,000. The annual census is taken to help governments provide resources to families in need. But, there are many situations when this data will not be accurate or complete. Such as, when leadership changes the thresholds for low-income households, or when families do not fill out the census. In cases like these, it is important to keep track of low-income families so that the government can find ways to provide them with the necessary aid. This project aims to find households that are low-income (making under $50,000 annually) so that proper support can be given based on specific predictors.
 
 [More on Low Income Families](https://www.federalregister.gov/documents/2010/08/05/2010-19099/the-low-income-definition)
-
-[To view the Full Project](https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes)
-
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
@@ -28,7 +23,10 @@ The annual census is taken to help governents provide resources to families in n
 ![0005](https://user-images.githubusercontent.com/45902684/180712880-8fb9402f-3aec-482d-aa7c-a30f570c8ba2.jpg)
 ![0006](https://user-images.githubusercontent.com/45902684/180712883-3877df9c-a50e-438a-a1bd-e0e707c448ce.jpg)
 
-##### Link to project: [https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes](https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+[To view the Full Project](https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes)
 
 
 
