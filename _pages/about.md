@@ -59,9 +59,7 @@ I am a data explorer who enjoys working with businesses that have a mission for 
 
 
 #### Other Projects: 
-
     - Conducted Exploratory Data Analysis and Data Cleaning on ICU Admissions Rates to minimize return injuries in Tableau 
-    
     - Predicted the outcome of student success in STEM using regression techniques (80% Accuracy)                
 
 
@@ -73,13 +71,11 @@ I am a data explorer who enjoys working with businesses that have a mission for 
 
 #### SteinBright Career Development Center — SUMMER INTERN                                                        
 *JULY 2018 – AUG 2018*
-
     * Created reference guides in Excel to speed the Employer Relations offices’ research process for finding career newsletters, industry events, and contact resources that aided over 1,924 students in finding jobs and keeping up to date with industry trends and affiliations
     * Designed a visual resource using Microsoft Office  that summarized six essential Google Keyword search terms and four shortcuts, resulting in a presentation to 5 individuals who were able to find 50+ potential co-ops for students and alumni within the 15-minute meeting
 
 #### Office of Institutional Advancement  — SUMMER INTERN,                                                                    
 *JULY 2016 – AUG 2017*
-
     * Expanded existing online and documenting systems for the Alumni Relations department to aid in organizing over 50+ alumni invitations, labels, and programs while creating, sending, and organizing confidential documents for financial records and alumni events
     * Added to pre-existing alumni and financial databases of over 100 individuals in an Excel spreadsheet while sustaining receipts and documentation for over 25+ departments' expenditure records for the entire institution 
 
@@ -87,21 +83,16 @@ I am a data explorer who enjoys working with businesses that have a mission for 
 ## ACHIEVEMENTS, AFFILIATIONS & LEADERSHIP EXPERIENCE 
 
 *Jan 2020 – Current*        
-    
     Acknowledged as a member of over 15,000+ women and students in the **Rewriting the Code Fellowship**
     
 *Feb 2021 – May 2022*       
-    
     Founder and President of **The Wooster Data Problem**
     
 *Feb 2020 – May 2022*       
-    
     Accepted as a member & resolved internal conflicts as the **Judge of Kappa Epsilon Zeta Sorority**
     
 *Feb 2020 – Jan 2021*       
-    
     Volunteered to as an assistant to teach over 20+ attendees about Physics during **Earth fest & Science Day**
     
 *April 6, 2019, & 2020*     
-    
     Volunteered to aid professors and engineers to teach over 50+ young girls about STEM during **Expanding your Horizons**
