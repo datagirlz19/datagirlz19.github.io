@@ -27,9 +27,9 @@ In 2020, the US census recorded the information of over 48,000 individuals and c
 
 To do this, we performed basic data manipulation on the variables in the dataset to analyze the provided information and gain some insight. The dataset mostly included categorical variables, so we decided to look at each unique category. We found out that there were several overlapping variables and decided to modify them to reduce the number of categories, thus reducing potential complications.
 
-The purpose of this project is predict whether someone has an annual income of over $50,000.
+The purpose of this project is to predict whether someone has an annual income of over $50,000.
 
-The annual census is taken to help governents provide resources to families in need. However there are many situations when this data will not be accutate or complete, such as when leadership changes the definition of what a low income family is or when families do not fill out the census with accurate/complete information. In cases like these, it is important to keep track of low income families so that the government can find ways to provide them with the necessary aid. This project aims to find house holds that are low income (making under $50,000 annually) so that proper support can be given based on speific predictors.
+The annual census is taken to help governments provide resources to families in need. However, there are many situations when this data will not be accurate or complete, such as when leadership changes the definition of what a low-income family is or when families do not fill out the census with accurate/complete information. In cases like these, it is important to keep track of low-income families so that the government can find ways to provide them with the necessary aid. This project aims to find households that are low-income (making under $50,000 annually) so that proper support can be given based on specific predictors.
 
 ##### Link to project: [https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes](https://github.com/datagirlz19/Predicting-Income-Levels-for-Low-Income-Homes)
 
@@ -51,7 +51,7 @@ Skills Used:
 
 The purpose of this project is to determine who is more likely to apply to Wooster, and how we can increase these results.
 
-The College of Wooster is a small liberal arts school in Ohio that mainly attracts students due to its prestigious Independent Study Program that draws in students from around the globe. Despite the college's appeal, the college struggles to obtain domestic students, as only 55% of the students that apply to the school are admitted, and only 16% of the students that are admitted to the school accept the offer.We were allowed to condut an analysis on a dataset of over 2,000 students in hopes of finding insights into the data and providing small solutions to increase the number of student acceptances.
+The College of Wooster is a small liberal arts school in Ohio that mainly attracts students due to its prestigious Independent Study Program that draws in students from around the globe. Despite the college's appeal, the college struggles to obtain domestic students, as only 55% of the students that apply to the school are admitted, and only 16% of the students that are admitted to the school accept the offer. We were allowed to analyze a dataset of over 2,000 students in hopes of finding insights into the data and providing small solutions to increase the number of student acceptances.
 
 ##### Link to project: [https://github.com/datagirlz19/College-of-Wooster-Admissions-Data](https://github.com/datagirlz19/College-of-Wooster-Admissions-Data)
 ### Methods Used
@@ -61,12 +61,12 @@ The College of Wooster is a small liberal arts school in Ohio that mainly attrac
 ### Technologies
 * R 
 
-# Project 3 - Classifying Natural Diaster Tweets 
+# Project 3 - Classifying Natural Disaster Tweets 
 ![chris-gallagher-4zxp5vlmvnI-unsplash](https://user-images.githubusercontent.com/45902684/181147148-9b888996-565f-4371-abb0-7713eb36c6fd.jpeg)
 
   
 ## Description: 
-Twitter can be as both a resource for finding urgent information and as a tool for communicating useless information about sales and petty gossip.
+Twitter can be both a resource for finding urgent information and a tool for communicating useless information about sales and petty gossip.
 
 Twitter can be both a resource for finding urgent information such as reporting Natural Disasters (real-time) and asking for help during times of crisis. Hashtags can be useful tools for sifting through the nonsense, but they can also be misused for sales and gossip. This project aims to use Natural Language Processing to determine which messages posted on Twitter can be classified as Natural Disasters or spam.
  
