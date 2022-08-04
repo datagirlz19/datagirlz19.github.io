@@ -4,7 +4,7 @@ title: About
 ---
 
 # SARAH WRIGHT
-I am a data explorer who enjoys working with businesses that have a mission for good. Every day, I strive to learn and become a better Data Analyst, Data Scientist, and Data Researcher. Feel free to reach out if you have questions! 
+I consider myself a Data Explorer because I am fascinated with technology and data. Yet, as the world becomes more data-centered, I wonder how it can help us and what role we play. In university, I received the opportunity to be a data science major. While working with datasets of different sizes, I was amazed by how connected and disconnected they can make us. This idea led me to study the interdisciplinary connections that data creates. Between research and pursuing my interest, I see how data can change how we connect for the better. Now I devote my time to building models that can pull people together through perspective rather than division. 
 
 #### **To Contact Me:**
 Send me an email at: [sarah.wright@datagirlz.net](sarah.wright@datagirlz.net)
