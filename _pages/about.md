@@ -6,10 +6,12 @@ title: About
 # SARAH WRIGHT
 I am a data explorer who enjoys working with businesses that have a mission for good. Every day, I strive to learn and become a better Data Analyst, Data Scientist, and Data Researcher. Feel free to reach out if you have questions! 
 
-#### To Contact Me:
-##### Send me an email at: [sarah.wright@datagirlz.net](sarah.wright@datagirlz.net)
-##### DM me on Twitter: [https://twitter.com/datagirlz19](https://twitter.com/datagirlz19)
-#####  Message me on LinkedIn: [www.linkedin.com/in/swright22](https://linkedin.com/in/swright22)
+#### **To Contact Me:**
+Send me an email at: [sarah.wright@datagirlz.net](sarah.wright@datagirlz.net)
+
+DM me on Twitter: [https://twitter.com/datagirlz19](https://twitter.com/datagirlz19)
+
+Message me on LinkedIn: [www.linkedin.com/in/swright22](https://linkedin.com/in/swright22)
 
 
 ## EDUCATION
@@ -59,25 +61,28 @@ I am a data explorer who enjoys working with businesses that have a mission for 
 
 
 #### Other Projects: 
-    - Conducted Exploratory Data Analysis and Data Cleaning on ICU Admissions Rates to minimize return injuries in Tableau 
-    - Predicted the outcome of student success in STEM using regression techniques (80% Accuracy)                
+    * Conducted Exploratory Data Analysis and Data Cleaning on ICU Admissions Rates to minimize return injuries in Tableau 
+    * Predicted the outcome of student success in STEM using regression techniques (80% Accuracy)                
 
 
 <a href="https://twitter.com/datagirlz19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datagirlz19" height="30" width="40" /></a> <a href="https://linkedin.com/in/swright22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/swright22" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/19185336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19185336" height="30" width="40" /></a> <a href="https://kaggle.com/datagirlz19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="datagirlz19" height="30" width="40" /></a> <a href="https://www.hackerrank.com/swright22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swright22" height="30" width="40" /></a> <a href="https://public.tableau.com/app/profile/datagirlz19" target="blank"><img align="center" src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="swright22" height="30" /></a>
 
 
+
 ## [EXPERIENCE](https://www.linkedin.com/in/swright22)
 ### Drexel University, Philadelphia, PA
 
-#### SteinBright Career Development Center — SUMMER INTERN                                                        
-*JULY 2018 – AUG 2018*
-    * Created reference guides in Excel to speed the Employer Relations offices’ research process for finding career newsletters, industry events, and contact resources that aided over 1,924 students in finding jobs and keeping up to date with industry trends and affiliations
-    * Designed a visual resource using Microsoft Office  that summarized six essential Google Keyword search terms and four shortcuts, resulting in a presentation to 5 individuals who were able to find 50+ potential co-ops for students and alumni within the 15-minute meeting
+#### SteinBright Career Development Center — SUMMER INTERN,                                                      
+**JULY 2018 – AUG 2018**
+
+* Created reference guides in Excel to speed the Employer Relations offices’ research process for finding career newsletters, industry events, and contact resources that aided over 1,924 students in finding jobs and keeping up to date with industry trends and affiliations
+* Designed a visual resource using Microsoft Office  that summarized six essential Google Keyword search terms and four shortcuts, resulting in a presentation to 5 individuals who were able to find 50+ potential co-ops for students and alumni within the 15-minute meeting
 
 #### Office of Institutional Advancement  — SUMMER INTERN,                                                                    
-*JULY 2016 – AUG 2017*
-    * Expanded existing online and documenting systems for the Alumni Relations department to aid in organizing over 50+ alumni invitations, labels, and programs while creating, sending, and organizing confidential documents for financial records and alumni events
-    * Added to pre-existing alumni and financial databases of over 100 individuals in an Excel spreadsheet while sustaining receipts and documentation for over 25+ departments' expenditure records for the entire institution 
+**JULY 2016 – AUG 2017**
+
+* Expanded existing online and documenting systems for the Alumni Relations department to aid in organizing over 50+ alumni invitations, labels, and programs while creating, sending, and organizing confidential documents for financial records and alumni events
+* Added to pre-existing alumni and financial databases of over 100 individuals in an Excel spreadsheet while sustaining receipts and documentation for over 25+ departments' expenditure records for the entire institution 
 
 
 ## ACHIEVEMENTS, AFFILIATIONS & LEADERSHIP EXPERIENCE 
