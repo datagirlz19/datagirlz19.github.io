@@ -4,11 +4,13 @@ title: Project Three - Natural Diaster Tweet Classification
 description: The purpose of this project is to use NLP to predict whether a tweet is reporting on a natural disaster/crisis or not.
 summary: Twitter can be as both a resource for finding urgent information and as a tool for communicating useless information about sales and petty gossip. 
 category: NLP, Classification, Research
----
+---Twitter can be a powerful tool, for finding urgent information about situations around the globe. However, it can also be a tool for communicating useless information about sales and petty gossip. 
 
-Twitter can be a powerful tool, both as a resource for finding urgent information about situations around the globe and a tool for communicating useless information about sales and petty gossip. Hashtags are useful tools for shifting through the clutter, however, oftentimes they are misused, such as putting disaster terms like "#Hurricane" on a sale ad to increase views. This has made it difficult for professionals to identify important and relevant information in accordance with their needs. However, in the past decade, humans have become able to teach computers to examine the complex structure of the English language as the field of machine learning advances. This has become increasingly salient, as humans can no longer review  content created by social media because it is complex. The purpose of the research paper is to use a machine learning technique called  Natural Language Processing (NLP) to read through the tweets and  predict which tweets on Twitter are about natural disasters and which ones aren’t. Using a collection of Twitter disaster tweets, that calls for Natural Language Processing techniques, and pairing them with a Random Forest and Multinomial Naive Bayes Regressions, an accuracy of 80.6 percent was obtained. The findings are promising, and they could help the general population sort through and analyze information shared during times of mass crisis. 
+Hashtags can be useful for shifting through the clutter! But often they are misused, such as using #Hurricane on a sale ad to increase views. This has made it difficult for individuals and organizations to identify relevant information. This has become salient, as social media had become an overwhelming database of information. 
 
-The purpose of this project is to use NLP to predict whether a tweet is reporting on a natural disaster/crisis or not.
+In the past decade, humans have become able to teach computers to examine the complex structure of the English language.  The purpose of the research paper is to use a machine learning technique called Natural Language Processing (NLP) to read through the tweets. The goal is to use NLP to predict whether a tweet is reporting on a natural disaster/crisis or not.
+
+Using the collection of Twitter posts, we used a Random Forest and Multinomial Naive Bayes Regressions. After this, we were able to predict with an accuracy of 80.6 percent whether a tweet was describing a natural disaster or not. The findings are promising, and could help the general population analyze information shared during times of crisis. 
 
 [To view the Presentation](#Presentation)
 
