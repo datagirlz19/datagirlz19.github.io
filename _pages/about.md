@@ -20,25 +20,20 @@ Message me on LinkedIn: [www.linkedin.com/in/swright22](https://linkedin.com/in/
 **Minor:** Studio Arts
 
 **Relevant Coursework:** 
-
     Object-Oriented Programming| Data Structures & Algorithms, Linear Algebra, 
     Statistical Applications, Independent Research, Data Visualization
 
 ## SKILLS
 **Machine Learning:** 
-
     Classification, Regression, Clustering, NLP, GAN, Neural Networks
     
 **Data Analytics:** 
-
     Cleaning, Manipulation, Scraping, Visualizations
     
 **Statistics:** 
-
     Inferential & Descriptive Statistics, Bayesian methods, A/B Testing
     
 **Proficient Software:** 
-
     R/R Studio,  Python (NumPy,  Pandas, Seaborne, Matplotlib),  SQL (MySQL),  C/C++,  
     Flask, Tableau,  Git/GitHub,  Jupyter Notebooks, Adobe Illustrator, 
     Adobe Photoshop, Git, Microsoft Office, Latex
