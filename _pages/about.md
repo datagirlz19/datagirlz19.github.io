@@ -19,7 +19,7 @@ I am a data explorer who enjoys working with businesses that have a mission for 
 
 **Relevant Coursework:** 
 
-    Object-Oriented Programming, Data Structures & Algorithms, Linear Algebra, 
+    Object-Oriented Programming| Data Structures & Algorithms, Linear Algebra, 
     Statistical Applications, Independent Research, Data Visualization
 
 ## SKILLS
