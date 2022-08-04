@@ -39,18 +39,18 @@ Message me on LinkedIn: [www.linkedin.com/in/swright22](https://linkedin.com/in/
 ## [RECENT PROJECTS](datagirlz.net)
 
 #### Class Management Database  
-    * Programmed a website in Python and Flask for teachers and student to track grades and communicate, inspired by Moodle software
-    * Competed with a team to create a SQL database that keeps track of users and allows them to create, read, update, and delete information uploaded to their account
+* Programmed a website in Python and Flask for teachers and student to track grades and communicate, inspired by Moodle software
+* Competed with a team to create a SQL database that keeps track of users and allows them to create, read, update, and delete information uploaded to their account
 
 
 #### Predicting Natural Disaster Tweets 
-    * Developed a NLP (Natural Language Processing) model in python that predicts, with 70% Accuracy, whether a tweet is describing a natural disaster or is a misnomer using data using over 7,000 hashtags and tweets
-    * Collaborated with a partner to learn and teach the fundamentals of NLP to a class of 15 students, focusing on method, such as part of speech tagging and lexicalization, to increase the accuracy of future model
+* Developed a NLP (Natural Language Processing) model in python that predicts, with 70% Accuracy, whether a tweet is describing a natural disaster or is a misnomer using data using over 7,000 hashtags and tweets
+* Collaborated with a partner to learn and teach the fundamentals of NLP to a class of 15 students, focusing on method, such as part of speech tagging and lexicalization, to increase the accuracy of future model
 
 
 #### Improving Admissions Results                                          
-    * Analyzed the College of Wooster’s 2018 admissions data of over 263,000 domestic students, to complete EDA and discover ways to improve the admissions rate at the College of Wooster  
-    * Presented three actionable steps to a group of 12 faculty and students about what the admissions team could do to increase the admissions turnover rate for the college
+* Analyzed the College of Wooster’s 2018 admissions data of over 263,000 domestic students, to complete EDA and discover ways to improve the admissions rate at the College of Wooster  
+* Presented three actionable steps to a group of 12 faculty and students about what the admissions team could do to increase the admissions turnover rate for the college
 
 
 #### Other Projects: 
