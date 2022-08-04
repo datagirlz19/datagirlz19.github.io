@@ -1,17 +1,20 @@
 ---
 layout: post
 title: Analyzing the outcome of the 2020 Elections
-description: The goal of this data analysis is to gather a deeper understanding of why Donald J. Trump won the 2016 elections. 
-summary: From this data, we hope to see if any inferences can be made to help candidates prepare for the 2020 elections. Our analysis proposes that there are 3 factors that led to Donald J. Trump winning the election which includes : Publicity, Hate Crime, & Unemployment rates (which we are calling environmental factors).
+description: The goal of this data analysis is to gather a deeper understanding of why Donald J. Trump won the 2016 elections.
+summary: Our analysis proposes that there are 3 factors that led to Donald J. Trump winning the election. These factors are Publicity, Hate Crime, & Unemployment rates (which we are calling environmental factors).
 tags: [EDA: Explatory Data Analysis]
 ---
 
-       	We have completed our analysis of the results of 2016 presidential election. Based on our analysis, we built the models which can contribute to the predictions of the winning chance of the candidate in each state. The following are the results of our analysis and predictor models.
+
+Research Conducted by: Sarah Wright, Khine Chin Chin Soe & Eyoas Kebede
+
+We have completed our analysis of the results of 2016 presidential election. Based on our analysis, we built the models which can contribute to the predictions of the winning chance of the candidate in each state. The following are the results of our analysis and predictor models.
 Problem: The Republican Party wants to know on which factors the party should pay more attention in order to promote the candidate better in the states.
 Hypotheses: The environmental factors such as hate crimes, unemployment and publicity had impacts on the voting results of the 2016 presidential election.
 Exploratory Data Analysis
 We first cleaned the data and created the final dataset that we will be using throughout the whole analysis process. The following link will take you to the final dataset tables.
-View Table: Final Data
+
 In this dataset, the numbers you will see under the column, “Votes” is the voting ratio that the candidates from Democratic and Republican parties received in each state. We calculated the voting ratio by dividing the number of votes that each candidate got in a state by the total number of votes from that state. Therefore, if the voting ratio is 0.5, that means both candidates won the same votes. If the voting ratio is smaller than 0.5, the candidate lost in that state, and if the voting ratio is larger than 0.5, the candidate won that state.
  
 Observation: The publicity graph shows an analysis on the relationship between the Publicity and Voting Ratio each candidate received during the 2016 election. By looking at the graph, you may note that the candidates won in the states where they gained more popularity.
